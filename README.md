@@ -1,3 +1,3 @@
 # _deskof
 
-ssh check 1. dont mind me. 
+ssh check 2. dont mind me. 
