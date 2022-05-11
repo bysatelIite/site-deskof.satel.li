@@ -2,4 +2,4 @@ title: deskof.satel.li/te
 markdown: kramdown
 plugins: 
   - jekyll-remote-theme
-remote-theme: site-satel.li-module
+remote_theme: bysatelIite/site-satel.li-module
