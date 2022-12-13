@@ -3,3 +3,19 @@ markdown: kramdown
 plugins: 
   - jekyll-remote-theme
 remote_theme: bysatelIite/site-satel.li-module
+collections: 
+  reviews:
+    output: true
+    permalink: /te-reviews/:name
+  presents: 
+    output: true
+    permalink: /te-presents/:name
+  makes:
+    output: true
+    permalink: /te-makes/:name
+  breaksdown: 
+    output: true
+    permalink: /te-breaksdown/:name
+  pens: 
+    output: true
+    permalink: /te-pens/:name
